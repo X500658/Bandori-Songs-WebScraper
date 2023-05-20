@@ -7,3 +7,4 @@ Converts the multiple tables in this page to a single table stored in a CSV file
 
 ## Todo
 Add image downloading function for the song art/images
+Refactor code into functions
